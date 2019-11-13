@@ -32,7 +32,7 @@ Supponiamo di avere un `<div>` da qualche parte nel tuo file HTML:
 
 Lo chiameremo nodo DOM "radice" (o root) in quanto ogni cosa al suo interno verrà gestita dal DOM di React.
 
-Applicazioni costruite solo con React di solito hanno un solo nodo DOM radice. Se stai integranto Reat all'interno di apps esistenti, potresti avere più elementi DOM radice isolati, dipende dai casi.
+Applicazioni costruite solo con React di solito hanno un solo nodo DOM radice. Se stai integranto React all'interno di apps esistenti, potresti avere più elementi DOM radice isolati, dipende dai casi.
 
 Per renderizzare un elemento React nel nodo DOM radice, bisogna passare entrambi a `ReactDOM.render()`:
 
